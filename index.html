@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Tolkien Quiz</title>
+</head>
+<body>
+    <div class="container">
+        <div id="menu" class="menu">
+            <h1>Tolkien Quiz</h1>
+            <p>This is a quiz based on books from J. R. R. Tolkien, such as the Lord of the Rings, the Hobbit, and Silmarillion. After every five questions they get more difficult. There are five levels of difficulties, so there are a maximum of 25 questions in total. Good luck!</p>
+            <button id="startBtn">Start game</button>
+            <button id="resultsBtn">Show previous scores</button>
+        </div>
+    </div>
+    <div id="quiz" class="hidden">
+        <div id="question" class="question">Loading the question...</div>
+        <div id="answers" class="answers"></div>
+        <button id="nextBtn" class="hidden">Next question</button>
+    </div>
+    <div id="result" class="hidden score"></div>
+    <div id="history" class="hidden score"></div>
+
+    <script type="module" src="./js/functions.js"></script>
+</body>
+</html>
