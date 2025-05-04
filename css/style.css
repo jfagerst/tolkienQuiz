@@ -45,6 +45,11 @@ body {
   
   .answers button {
     background-color: #2196f3;
+    display: block;
+    max-width: 600px;
+    padding: 1rem;
+    margin: 0.5rem auto;
+    border-radius: 0.5rem;
   }
   
   .answers button:hover {
