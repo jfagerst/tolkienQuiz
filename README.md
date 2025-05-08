@@ -1,4 +1,4 @@
-# :pushpin: Tolkien Quiz - Websovellusten perusteet-kurssin harjoitustyö
+# Tolkien Quiz - Websovellusten perusteet-kurssin harjoitustyö
 
 ## :grey_question: Harjoitustyön kuvaus
 
