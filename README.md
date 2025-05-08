@@ -1,11 +1,11 @@
-# Tolkien Quiz - Websovellusten perusteet-kurssin harjoitustyö
+# :pushpin: Tolkien Quiz - Websovellusten perusteet-kurssin harjoitustyö
 
-## Harjoitustyön kuvaus
+## :grey_question: Harjoitustyön kuvaus
 
 Tämä harjoitustyö on osa websovellusten kurssia. Projektin aihe oli vapaasti valittavissa, joten toteutin Tolkien-aiheisen tietovisan websovelluksena.
 
 
-## Harjoitustyön tavoitellut ominaisuudet
+## :clipboard: Harjoitustyön tavoitellut ominaisuudet
 
 ### Arvosanaan 5 sovelluksessa on pyritty toteuttamaan seuraavat ominaisuudet
 - Tehtävä on palautettu oikein git-repositorioon
@@ -21,7 +21,7 @@ Tämä harjoitustyö on osa websovellusten kurssia. Projektin aihe oli vapaasti 
 tms.
 
 
-## Websovelluksen rakenne
+## :mag: Websovelluksen rakenne
 
 - **HTML:** index.html sisältää websovelluksen rakenteen
 - **CSS:** Sovelluksen ulkoasu on määritelty .css-tiedostossa
@@ -29,7 +29,7 @@ tms.
 - **questions:** Sisältää tietovisan kysymykset
 - **Quiz:** Sisältää pelilogiikkaa
 
-## Sovelluksen toiminta
+## :magic_wand: Sovelluksen toiminta
 
 Aloitussivulla valitaan joko tietovisan aloitus tai aiempien tuloksien tarkastelu. 
 
